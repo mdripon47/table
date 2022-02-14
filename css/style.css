@@ -1,0 +1,23 @@
+body{
+    margin-left: 335px;
+    margin-top: 90px;
+}
+
+
+
+
+td{
+    padding: 10px 20px ;
+    font-size: 30px;
+}
+td:hover{
+    background-color: chartreuse;
+
+}
+.month h1{
+    color: rgb(255, 80, 162);
+}
+
+
+
+
